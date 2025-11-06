@@ -9,7 +9,7 @@
 ---
 
 ### 🧩 About Me  
-🔹 Passionate **Computer Science Engineering student** with a strong interest in **cybersecurity, software development, and cloud computing**.  
+🔹 Passionate **Computer Science Engineering student** with a strong interest in **cybersecurity, software development**.  
 🔹 Love to build secure and scalable systems while continuously learning new technologies.  
 🔹 Active learner on **TryHackMe** – ranked in the **Top 4% globally** with 300+ days of continuous learning.  
 🔹 Always curious about how things work — from **writing clean code** to **breaking and securing systems**.  
